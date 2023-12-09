@@ -3,7 +3,7 @@
 ### Please follow the steps below to run the models. Enjoy!
  
 ### Step 0:
-Download and open project.ipynb on google colab.
+Download and open project.ipynb on Google Colab.
 
 ### Step 1(Setup):
 Install pacakges by running the first cell on Google Colab.
